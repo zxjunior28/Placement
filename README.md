@@ -1,4 +1,4 @@
-# Multi-chip Partition and Placement: implemented in C++
+# Multi-chip Partition and Placement
 
 ## Build with Makefile directly 
 ```console
